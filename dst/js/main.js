@@ -104,7 +104,7 @@ for (let i = 0; i < 18; i++) {
   petalContainer.appendChild(p);
 }
 
-window.onload = () => triggerBurst();
+// window.onload = () => triggerBurst();
 
 const pgRows = document.getElementById("pgRows");
 const rowCount = 3;
